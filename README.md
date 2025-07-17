@@ -53,18 +53,18 @@ I'm a passionate **AI/ML Developer** and **Data Science student** from Chennai, 
 
 ## 🎯 Featured Projects
 
-### 🚨 [AI Integrated Community Safety Gadgets](https://github.com/thanush29/ai-safety-gadgets)
+### 🚨 [AI Integrated Community Safety Gadgets](https://github.com/thanush29/AI-Integrated-community-safety-gadgets.git)
 **Patent Granted | Application No: 202441007573**
 - Intelligent IoT-based alert system for fire, gas leaks, and medical emergencies
 - **95% accuracy** in threat detection, **40% reduction** in emergency response time
 - **Tech Stack:** Python, IoT, NodeMCU, Arduino, Machine Learning
 
-### 📈 [Stock Price Prediction Using LSTM](https://github.com/thanush29/stock-prediction-lstm)
+### 📈 [Stock Price Prediction Using LSTM](https://github.com/thanush29/Stock_Forcasting_web_app.git)
 - Deep learning model with **85% accuracy** for stock market prediction
 - Real-time visualization web interface using Flask
 - **Tech Stack:** Python, TensorFlow, LSTM, Flask
 
-### 🏭 [Safe Zone Detection Using YOLOv8](https://github.com/thanush29/safe-zone-detection)
+### 🏭 [Safe Zone Detection Using YOLOv8](https://github.com/thanush29/New-Website-SafeZone.git)
 - Real-time industrial safety monitoring system
 - **92% accuracy** in detecting safety violations
 - **Tech Stack:** Python, YOLOv8, Computer Vision, OpenCV
